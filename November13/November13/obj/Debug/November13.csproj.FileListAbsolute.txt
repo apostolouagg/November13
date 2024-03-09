@@ -37,3 +37,16 @@ C:\Users\aapos\Έγγραφα\Games-Programs\Me\November13\November13\November13
 C:\Users\aapos\Έγγραφα\Games-Programs\Me\November13\November13\November13\obj\Debug\November13.csproj.CoreCompileInputs.cache
 C:\Users\aapos\Έγγραφα\Games-Programs\Me\November13\November13\November13\obj\Debug\November13.exe
 C:\Users\aapos\Έγγραφα\Games-Programs\Me\November13\November13\November13\obj\Debug\November13.pdb
+C:\Users\aapos\Documents\GitHub\November13\November13\November13\bin\Debug\November13.exe.config
+C:\Users\aapos\Documents\GitHub\November13\November13\November13\bin\Debug\November13.exe
+C:\Users\aapos\Documents\GitHub\November13\November13\November13\bin\Debug\November13.pdb
+C:\Users\aapos\Documents\GitHub\November13\November13\November13\obj\Debug\November13.csproj.AssemblyReference.cache
+C:\Users\aapos\Documents\GitHub\November13\November13\November13\obj\Debug\November13.Form1.resources
+C:\Users\aapos\Documents\GitHub\November13\November13\November13\obj\Debug\November13.Form2.resources
+C:\Users\aapos\Documents\GitHub\November13\November13\November13\obj\Debug\November13.Form3.resources
+C:\Users\aapos\Documents\GitHub\November13\November13\November13\obj\Debug\November13.Form4.resources
+C:\Users\aapos\Documents\GitHub\November13\November13\November13\obj\Debug\November13.Properties.Resources.resources
+C:\Users\aapos\Documents\GitHub\November13\November13\November13\obj\Debug\November13.csproj.GenerateResource.cache
+C:\Users\aapos\Documents\GitHub\November13\November13\November13\obj\Debug\November13.csproj.CoreCompileInputs.cache
+C:\Users\aapos\Documents\GitHub\November13\November13\November13\obj\Debug\November13.exe
+C:\Users\aapos\Documents\GitHub\November13\November13\November13\obj\Debug\November13.pdb

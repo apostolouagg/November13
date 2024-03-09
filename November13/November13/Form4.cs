@@ -73,7 +73,7 @@ namespace November13
 
             button1.Hide();
             textBox1.Hide();
-            textBox1.Text = "https://www.youtube.com/playlist?list=PLy5YOMq9ZjiEz4fakDLVAIFsHvQzJg14w";
+            textBox1.Text = "there was a link here at some point. If u are reading this instead of a link then you are not that special someone";
         }
 
         private void button1_Click(object sender, EventArgs e)
